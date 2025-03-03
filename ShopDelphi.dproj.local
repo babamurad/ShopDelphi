@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.487,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.02.27 16:41:26.644,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.02.27 16:48:24.793,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025.02.27 16:51:33.015,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025.02.27 16:57:26.452,C:\Users\user\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025.02.27 16:57:26.452,C:\Users\user\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.02.27 16:57:42.510,C:\Users\user\Documents\Embarcadero\Studio\Projects\ShopDelphi\ShopDelphi.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025.02.27 16:59:44.354,C:\Users\user\Documents\Embarcadero\Studio\Projects\ShopDelphi\ShopDelphi.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\ShopDelphi\ShopDelphi.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
